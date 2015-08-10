@@ -1,0 +1,10 @@
+<h1>Test - Upload Cities with ajax</h1>
+<div class="field">
+  <%= label :state,'State : ' %>
+  <%= select(:state,'select', @states.collect {|a| [a.name, a.id]},{prompt: 'Select a state'},{}) -%>
+</div>
+
+<div class="field">
+  <%= label :city,'City : ' %>
+  <%= select(:city,'select', [],{}) -%>
+</div>

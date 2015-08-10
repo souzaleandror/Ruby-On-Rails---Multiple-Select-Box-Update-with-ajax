@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @state.name %>
+</p>
+
+<p>
+  <strong>Acronym:</strong>
+  <%= @state.acronym %>
+</p>
+
+<p>
+  <strong>Capital:</strong>
+  <%= @state.capital %>
+</p>
+
+<p>
+  <strong>Obs:</strong>
+  <%= @state.obs %>
+</p>
+
+<p>
+  <strong>Active:</strong>
+  <%= @state.active %>
+</p>
+
+<%= link_to 'Edit', edit_state_path(@state) %> |
+<%= link_to 'Back', states_path %>

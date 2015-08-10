@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  acronym: MyString
+  capital: MyString
+  obs: MyText
+  active: false
+
+two:
+  name: MyString
+  acronym: MyString
+  capital: MyString
+  obs: MyText
+  active: false
