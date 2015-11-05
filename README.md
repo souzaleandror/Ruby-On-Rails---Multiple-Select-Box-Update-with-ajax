@@ -11,12 +11,12 @@ Projeto feito atualizar múltiplas select box com ajax.
 Exemplo do projeto: Estados e cidades.(Brasileiras)
 
 --Italiano 
-Progetto fatto per aggiornare più casella di selezione con AJAX.
+Progetto fatto per aggiornare più menu tendina di selezione con AJAX.
 Esempio di progetto: Stato e città.(Brasiliana)
 
 To use the project:
-bundle update
-bundle install
-rake db: create
-rake db: migrate
-rake db: seed
+bundle update,
+bundle install,
+rake db: create,
+rake db: migrate,
+rake db: seed,
