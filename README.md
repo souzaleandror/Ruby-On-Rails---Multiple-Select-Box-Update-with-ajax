@@ -21,4 +21,5 @@ rake db: create /
 rake db: migrate /
 rake db: seed / 
 
-Version oline with Heroku: https://select-update-with-ajax.herokuapp.com/
+Version oline with Heroku: <a href='https://select-update-with-ajax.herokuapp.com/' target='_blank'> Multiple Select Box Update with ajax </a>
+ 
