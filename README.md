@@ -15,8 +15,10 @@ Progetto fatto per aggiornare più casella di selezione con AJAX.
 Esempio di progetto: Stato e città.(Brasiliana)
 
 To use the project:
-bundle update
-bundle install
-rake db: create
-rake db: migrate
-rake db: seed
+bundle update /
+bundle install /
+rake db: create /
+rake db: migrate /
+rake db: seed / 
+
+Version oline with Heroku: https://select-update-with-ajax.herokuapp.com/
